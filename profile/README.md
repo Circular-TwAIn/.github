@@ -3,6 +3,7 @@
 </p>
 
 ## **This GitHub organization maintains the repositories of the artifacts that are developed within the Circular TwAIn project[^1].**
+[![HitCount](https://hits.dwyl.com/Circular-TwAIn/github.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Circular-TwAIn/github)
 
 ## :file_folder: Repositories
 - [Circular TwAIn Industrial Data Platform](https://github.com/Engineering-Research-and-Development/circular-twain_industrial_data_platform)  
