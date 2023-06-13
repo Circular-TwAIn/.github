@@ -2,7 +2,7 @@
 <img src="https://github.com/Circular-TwAIn/.github/blob/main/profile/image/Circular%20Twain%20Logo-black.png" width="250" alt="Circular TwAIn">
 </p>
 
-**This GitHub organization maintains the repositories of the artifacts that are developed within the Circular TwAIn project[^1].**
+## **This GitHub organization maintains the repositories of the artifacts that are developed within the Circular TwAIn project[^1].**
 
 ## :file_folder: Repositories
 - [Circular TwAIn Industrial Data Platform](https://github.com/Engineering-Research-and-Development/circular-twain_industrial_data_platform)  
